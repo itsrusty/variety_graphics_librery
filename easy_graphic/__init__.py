@@ -1,0 +1,1 @@
+from .methods import draw_cube, draw_face, figure_alternative, draw_triangle, draw_ball
